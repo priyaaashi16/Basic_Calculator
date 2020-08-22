@@ -1,0 +1,20 @@
+div{
+    border: 1px solid black;
+    text-align: center;
+    height: 350px;
+    width: 25%;
+    background-color: black;
+}
+#textarea{
+    border: 1px solid black;
+    height: 95px;
+    width: 98%;
+    text-align:right;
+    font-size: 30px;
+}
+button{
+    /* padding:2%; */
+    width:24%;
+    height:14%;
+    font-size: 120%;
+}
